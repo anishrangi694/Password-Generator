@@ -15,3 +15,9 @@ This is a simple password generator project which generate the random password b
 - HTML
 - CSS
 - JavaScript
+
+## Images
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/2e959e68-cf5b-4571-a110-ebdfebff04ed" />
+<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/ce6e8c5c-f6ed-45ee-91b2-ea40bb8b4a57" />
+
+
